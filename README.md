@@ -1,16 +1,16 @@
 # Krypt - Web 3.0 Blockchain Application
 ![Krypt](https://i.ibb.co/DVF4tNW/image.png)
 
+## Features
+
+- Responsive design optimized for both desktop and mobile devices.
+- Fast development and build times using Vite.
+- Easy-to-use and customizable styling with Tailwind CSS.
+- Modular and scalable architecture with React.
+
 ## Introduction
-This is a code repository for the corresponding video tutorial.
+This is a Web3.0 Application where you can send crypto using Solidity, Metamask for the backend and tailwind, react, vite for the front-end.
 
-Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a your first real Web 3.0 Application - from start to finish.
+## Click here to see https://sendcryptoapp.netlify.app/
 
-Project created in collaboration with Enyel Sequeira: 
-Portfolio - https://www.enyelsequeira.com
-E-mail - enyelsequeira1994@gmail.com
-Want me to cover the project you've created? Send me an e-mail 👌
-
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
-
-https://sendcryptoapp.netlify.app/
+💻 Coded along with JS Mastery Pro @https://jsmastery.pro
